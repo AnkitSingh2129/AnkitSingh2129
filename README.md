@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Final-year student | Aspiring Full Stack Developer<br><br>🚀 Hi there! I'm Ankit Kumar Singh, on the cusp of completing my BCA degree with a focus on full-stack development. I'm captivated by the art of creating seamless digital experiences, from crafting intuitive user interfaces to building robust backend systems.<br><br>🌐 Throughout my academic journey, I've honed my skills in various programming languages and technologies. I'm eager to leverage this knowledge and collaborate with innovative teams to turn ideas into reality.<br><br>🔍 Currently exploring opportunities to contribute my skills and passion to a dynamic tech environment. Let's connect and explore how we can create something awesome together!</p>
+<p align="left">👋 Final-year student | Aspiring Full Stack Developer<br><br>🚀 Hi there! I'm Ankit Kumar Singh, on the cusp of completing my Bachelor degree with a focus on full-stack development. I'm captivated by the art of creating seamless digital experiences, from crafting intuitive user interfaces to building robust backend systems.<br><br>🌐 Throughout my academic journey, I've honed my skills in various programming languages and technologies. I'm eager to leverage this knowledge and collaborate with innovative teams to turn ideas into reality.<br><br>🔍 Currently exploring opportunities to contribute my skills and passion to a dynamic tech environment. Let's connect and explore how we can create something awesome together!</p>
 
 ###
 
