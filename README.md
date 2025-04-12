@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ankit Kumar Singh and I'm a Student, from Jharsuguda</p>
+<p align="left">My name is Ankit Kumar Singh and I'm from Odisha</p>
 
 ###
 
